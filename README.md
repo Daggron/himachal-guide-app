@@ -5,7 +5,7 @@ A guide app which will guide you towards himachal tourist places and attractions
 It has 5 screens and here is photos of the screens
 
 #First-Screens
-![First Screen of the app](https://github.com/Daggron/himachal-guide-app/blob/master/ss/ss1.png  | width=200)
+![First Screen of the app](https://github.com/Daggron/himachal-guide-app/blob/master/ss/ss1.png)
 
 #Second-Screens
 ![Second Screen of the app](https://github.com/Daggron/himachal-guide-app/blob/master/ss/ss2.png)
